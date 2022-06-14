@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/jstetter/.dotnet/store/|arch|/|tfm|",
+      "/Users/jstetter/.nuget/packages"
+    ]
+  }
+}

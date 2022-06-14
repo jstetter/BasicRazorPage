@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "dbPfyq2gUZ7cR48h0Oa90Nl07SstEx3+KFqS6jHGLe8PQAleBTxQeLhqttaBJiTxK+6j6mK49xvjaFbYL3t3VQ==",
+  "success": true,
+  "projectFilePath": "/Users/jstetter/Projects/BasicRazorPage/BasicRazorPage/TestApp/TestApp/TestApp.csproj",
+  "expectedPackageFiles": [
+    "/Users/jstetter/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/jstetter/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.25/microsoft.netcore.app.host.osx-x64.3.1.25.nupkg.sha512",
+    "/Users/jstetter/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
